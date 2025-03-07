@@ -12,16 +12,16 @@
 #### Frontend
 
 - **Languages:** HTML5, CSS3, JavaScript
-- **Frameworks/Libraries:** Strapijs,NextJs(React), Vue js
+- **Frameworks/Libraries:** NextJs(React), Vue js
 - **Styling:**   Tailwind CSS
-- **Tools:** npm
+- **Tools:** npm , npx
 
 #### Backend
 
 - **Frameworks:** Node(Express.js)
-- **Databases:** MySQL
+- **Databases:** MySQL, Convex  
 - **APIs:** RESTful
-- **Authentication/Authorization:** JWT
+- **Authentication/Authorization:** JWT ,
 
 #### DevOps
 
