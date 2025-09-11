@@ -4,7 +4,7 @@
 
 <br />
 
-![Profile views](https://komarev.com/ghpvc/?username=Dave23x1&color=268F77&count=20000)
+![Profile views](https://komarev.com/ghpvc/?username=Dave23x1&color=268F77&count=50000)
 
 
 ---
