@@ -19,7 +19,7 @@
 #### Backend
 
 - **Frameworks:** Node(Express.js)
-- **Databases:** MySQL, Convex  
+- **Databases:** MySQL, Convex ,MongoDB  
 - **APIs:** RESTful
 - **Authentication/Authorization:** JWT ,
 
