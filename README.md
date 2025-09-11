@@ -1,70 +1,64 @@
-## I am Ryan Dave Dono
+# 👋 Hi, I'm Ryan Dave Dono
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=268F77&size=24&width=500&lines=Web+Developer;Nice+to+meet+you...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=268F77&size=28&width=500&lines=Web+Developer;Building+Modern+Apps;Open+to+Collaborate)
+
 <br />
 
-![Profile views](https://komarev.com/ghpvc/?username=Dave23x1&color=268F77)
+![Profile Views](https://komarev.com/ghpvc/?username=npm-run-dave&color=268F77)
 
 ---
 
-### Skills
+## 💼 About Me
 
-#### Frontend
-
-- **Languages:** HTML5, CSS3, JavaScript
-- **Frameworks/Libraries:** NextJs(React), Vue js
-- **Styling:**   Tailwind CSS
-- **Tools:** npm , npx
-
-#### Backend
-
-- **Frameworks:** Node(Express.js)
-- **Databases:** MySQL, Convex ,MongoDB  
-- **APIs:** RESTful
-- **Authentication/Authorization:** JWT ,
-
-#### DevOps
-
-- **Version Control:** Git, GitHub, Bitbucket
-
+I'm a passionate **Web Developer** specializing in **frontend and backend development**. I love building modern, responsive, and high-performance web applications.  
+Currently exploring **AI integrations** and **cloud deployment**.  
 
 ---
 
-### My GitHub Stats
+## 🛠 Skills
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Main GitHub Stats and Streaks -->
-  <img 
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=npm-run-dave&rank_icon=github&hide=stars&include_all_commits=true&all_commits=true&count_private=true&show_icons=true&theme=gotham&hide_border=true" 
-    alt="npm-run-dave's GitHub Stats" 
-    width="49%" 
-    style="margin: 0 10px;" 
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=npm-run-dave&theme=gotham&hide_border=true" 
-    alt="npm-run-dave's GitHub Streaks" 
-    width="49%" 
-    style="margin: 0 10px;" 
-  />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=npm-run-dave&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=npm-run-dave&theme=react&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Activity Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=npm-run-dave&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Contributions" 
-    alt="npm-run-dave's GitHub Activity Graph" 
-    width="100%" 
-    style="margin-top: 20px;" 
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=npm-run-dave&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Graph" width="100%" />
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=npm-run-dave&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
-    alt="npm-run-dave's Top Languages" 
-    width="60%" 
-    style="margin-top: 20px;" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npm-run-dave&theme=react&layout=compact&hide_border=true" width="60%" />
 </p>
 
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
