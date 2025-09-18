@@ -53,9 +53,7 @@ Currently exploring **AI integrations** and **cloud deployment**.
 </p>
 
 <p align="center">
-  <a href="https://bitbucket.org/your-bitbucket-username/">
     <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
-  </a>
 </p>
 
 ---
