@@ -4,7 +4,7 @@
 
 <br />
 
-![Profile views](https://img.shields.io/badge/Profile%20views-32K-268F77)
+![Profile views](https://img.shields.io/badge/Profile%20views-32.000-268F77)
 
 
 <!--[![Profile views](https://img.shields.io/badge/Profile%20views-52.430-268F77)](https://github.com/npm-run-dave) -->
