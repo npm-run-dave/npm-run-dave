@@ -4,7 +4,9 @@
 
 <br />
 
-[![Profile views](https://img.shields.io/badge/Profile%20views-52.430-268F77)](https://github.com/npm-run-dave)
+![Profile views](https://komarev.com/ghpvc/?username=Dave23x1x&color=268F77&count=32000)
+
+<!--[![Profile views](https://img.shields.io/badge/Profile%20views-52.430-268F77)](https://github.com/npm-run-dave) -->
 
 <!-- [Profile views](https://komarev.com/ghpvc/?username=Dave23x1&color=268F77&count=50000) -->
 
